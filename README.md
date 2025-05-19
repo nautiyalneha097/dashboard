@@ -1,2 +1,2 @@
 # dashboard
-Security Dashboardi= in Figma
+Security Dashboard in Figma
